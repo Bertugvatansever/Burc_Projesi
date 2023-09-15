@@ -1,4 +1,19 @@
 <<<<<<< HEAD
+
+![Ekran görüntüsü 2023-09-15 180919](https://github.com/Bertugvatansever/Burc_Projesi/assets/79909762/b3d542e9-6e11-4b59-a523-2178375707cf)
+
+![Ekran görüntüsü 2023-09-15 181030](https://github.com/Bertugvatansever/Burc_Projesi/assets/79909762/a11bc761-7ffc-434c-9832-8808a731e69e)
+
+
+
+
+
+
+
+
+
+
+
 # Burc_Projesi
 =======
 # burc_projesi
